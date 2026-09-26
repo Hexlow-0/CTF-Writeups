@@ -25,6 +25,3 @@ Every writeup roughly follows:
 
 ---
 
-### Contact
-
-- Email: `benm.holloway@proton.me`
